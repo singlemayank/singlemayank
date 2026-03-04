@@ -1,8 +1,4 @@
 # Mayank Singh
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
 
 Engineer building data platforms and scalable cloud systems.
 
@@ -23,6 +19,17 @@ Most of my work focuses on:
 * system reliability and scalability
 
 ---
+## Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
+<img src="https://skillicons.dev/icons?i=terraform" height="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=ts" height="40"/>
+</p>
 
 ## Featured Project
 
