@@ -3,6 +3,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+
 Engineer building data platforms and scalable cloud systems.
 
 DevOps • Cloud Infrastructure • Distributed Systems • Data Platforms
