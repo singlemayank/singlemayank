@@ -1,9 +1,16 @@
-# Mayank Singh
+# Mayank
 
 Engineer building data platforms and scalable cloud systems.
 
 DevOps • Cloud Infrastructure • Distributed Systems • Data Platforms
 
+<p>
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
+<img src="https://skillicons.dev/icons?i=terraform" height="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+</p>
 ---
 
 ## About
